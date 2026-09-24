@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 048b1e4c13cdb654b9c8bc2daff2a610
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 373950
+  packageName: Modular First Person Controller - Controlador Primera Persona Modular
+    - 48A 01
+  packageVersion: 1.0
+  assetPath: Assets/48A-01-FPC_CPP/FPC CPP - Player Jugador.prefab
+  uploadId: 941636
