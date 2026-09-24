@@ -5,6 +5,9 @@ Pietro Martins Souza e Sarah Lisboa de Oliveira
 ## Tema
 Desenvolvimento de jogo recriando uma cena do filme "Labirinto" de 1986
 
+## wiki
+https://github.com/PietroMartinss/labirintoCompleto/wiki
+
 ## Sumario e Link do projeto do jogo completo
 
 1. [Menu](https://github.com/PietroMartinss/labirintoCompleto/wiki/1.-Menu)
